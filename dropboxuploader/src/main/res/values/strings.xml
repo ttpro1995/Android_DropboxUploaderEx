@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DropboxUploader</string>
+    <string name="login_dropbox">Login Dropbox</string>
+    <string name="unlink_dropbox">Unlink Dropbox</string>
+
+    <string name="prefs_dropbox_token">Dropbox_Access_Token</string>
+    <string name="extra_dropbox_app_id_request">extra_dp_app_id</string>
+    <string name="extra_dropbox_app_secret_request">extra_dp_app_secret</string>
+    <string name="title_activity_login_dropbox">LoginDropboxActivity</string>
+
+</resources>
